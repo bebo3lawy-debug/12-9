@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "مساج منزلي | كابتن علاوي",
+      "hasCanvas": false,
+      "bodyTextLen": 2312,
+      "bodyTextHash": "a2de67d12f933b5b0b284135d8e63de7048fa48a850b9385099a694c8344426f",
+      "bodyTextPrefix": "مساج منزلي كابتن علاوي الخدمات عن الكابتن الزيارة الحجز واتساب ا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "مساج منزلي | كابتن علاوي",
+      "hasCanvas": false,
+      "bodyTextLen": 2272,
+      "bodyTextHash": "596176ac13b1d3d33df4d23899795cc57fced0acd0299a35eb062a38efe894b8",
+      "bodyTextPrefix": "مساج منزلي كابتن علاوي استرخاء · راحة · تعافي مساج منزلي زيارات ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
